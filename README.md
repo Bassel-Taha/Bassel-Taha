@@ -16,8 +16,7 @@
 <hr>
 <p align="center">
 <a href="https://www.linkedin.com/in/bassel-taha-keshk/" target="blank"><img align="center" src="https://th.bing.com/th/id/R.15fd5adb3c750e71a0e6ba69caaabe5f?rik=r4eO9JHsawHnKg&pid=ImgRaw&r=0" alt="lin_ovindu" height="40" width="40" /></a>  
-<a href="https://www.facebook.com/Bassel.Taha.Kishk" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: Basseltaha98@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href = "mailto: Basseltaha98@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
  </p>
 
 
