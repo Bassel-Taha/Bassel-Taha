@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Bassel Taha a <b>.Net Developer </b> An Engineer Graduated From <a href="https://uom.lk/"> <b>Port Said University</b>, Egypt, Port-Said </a>. <br>
+    Hello, I am Bassel Taha a <b>.Net Developer </b> An Engineer Graduated From <a href="[https://uom.lk/](https://psu.edu.eg/en/home-en/)"> <b>Port Said University</b>, Egypt, Port-Said </a>. <br>
     <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30px"> and a <b>Back-End Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>passionate</b>
     with <b>Programming</b> and  <b>eager</b> to Hone my technical skills and work experience by working on dynamic projects and collaborative team settings 
   </em> 
