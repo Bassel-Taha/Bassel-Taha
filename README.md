@@ -22,7 +22,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Bassel Taha a <b>.Net Developer </b> An Engineer Graduated From <a href="[https://uom.lk/](https://psu.edu.eg/en/home-en/)"> <b>Port Said University</b>, Egypt, Port-Said </a>. <br>
+    Hello, I am Bassel Taha a <b>.Net Developer & Angular Developer </b> An Engineer Graduated From <a href="[https://uom.lk/](https://psu.edu.eg/en/home-en/)"> <b>Port Said University</b>, Egypt, Port-Said </a>. <br>
     <b>a passionate self-learner</b> <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30px"> and a <b>Back-End Developer</b>&nbsp;<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>passionate</b>
     with <b>Programming</b> and  <b>eager</b> to Hone my technical skills and work experience by working on dynamic projects and collaborative team settings 
   </em> 
@@ -35,17 +35,21 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-  I'm a Highly motivated <b>Backend and .NET Developer</b> passionate about crafting innovative software   solutions. <b>Proficient in C# and ASP.NET</b>, I am eager to Hone my technical skills and work  experience by working on dynamic projects and collaborative team settings. With a good  foundation in object-oriented programming, I am ready to tackle challenges and deliver creative solutions and high-quality code. As a quick learner, I am enthusiastic about staying<b> up to date with new technologies</b> and implementing best practices in software development to drive project success ✅.
+  I'm a Highly motivated <b>Backend and .NET Developer & Angular Developer</b> passionate about crafting innovative software   solutions. <b>Proficient in C# and ASP.NET</b>, I am eager to Hone my technical skills and work  experience by working on dynamic projects and collaborative team settings. With a good  foundation in object-oriented programming, I am ready to tackle challenges and deliver creative solutions and high-quality code. As a quick learner, I am enthusiastic about staying<b> up to date with new technologies</b> and implementing best practices in software development to drive project success ✅.
  
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
 
-  <code> <img height="80" src="https://samiinfotech.com/wp-content/uploads/2022/09/EaHTsat.jpg"> </code>
   <code> <img height="80" src="https://logowik.com/content/uploads/images/angular-new6082.logowik.com.webp"> </code>
   <code> <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> </code>
   <code> <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> </code>
+  <code> <img height="80" src="https://smartastudio.b-cdn.net/wp-content/uploads/2024/02/tailwindcss-smartastudio.jpg"> </code>
+  <code> <img height="80" src="https://flowbite.com/images/og-image.png"> </code>
+  <code> <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"> </code>
+  
+  <code> <img height="80" src="https://samiinfotech.com/wp-content/uploads/2022/09/EaHTsat.jpg"> </code>
   <code> <img height="80" src="https://th.bing.com/th/id/R.893b71926fa5241849cac9f3bd50a36b?rik=WWlnTUQe0UeUqw&pid=ImgRaw&r=0"> </code>
   <code> <img height="80" width ="" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png"> </code>
   <code> <img height="80" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
