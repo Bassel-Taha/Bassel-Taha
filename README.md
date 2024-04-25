@@ -5,7 +5,7 @@
 <br>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Bassel Taha </h1>
-<h3 align="center">.NET Developer | Back-End Developer </h2>
+<h3 align="center">.NET Developer & Angular | Full Stack Developer </h2>
 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
@@ -43,6 +43,9 @@
   
 
   <code> <img height="80" src="https://samiinfotech.com/wp-content/uploads/2022/09/EaHTsat.jpg"> </code>
+  <code> <img height="80" src="https://logowik.com/content/uploads/images/angular-new6082.logowik.com.webp"> </code>
+  <code> <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"> </code>
+  <code> <img height="80" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"> </code>
   <code> <img height="80" src="https://th.bing.com/th/id/R.893b71926fa5241849cac9f3bd50a36b?rik=WWlnTUQe0UeUqw&pid=ImgRaw&r=0"> </code>
   <code> <img height="80" width ="" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png"> </code>
   <code> <img height="80" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
