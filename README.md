@@ -1,14 +1,16 @@
 <!-- Header Section -->
 <div align="center">
 
-# ✨ Bassel Taha
+# 🚀 Hi, I'm **Bassel Taha**
 
-### **Senior Software Architect** | Full Stack Developer | AI × BIM × Cloud Specialist
+### **Senior Software Architect** | Full Stack Developer | AI × BIM × Cloud Innovator
 
-> *Architecting the future of construction through intelligent systems, cloud-native platforms, and autonomous AI agents.*
+> *Transforming construction tech through intelligent systems, cloud-native architectures, and autonomous AI agents.*
 
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" height="3" alt="divider">
+
+### 📍 Abu Dhabi, UAE | 💼 Architecting Digital Transformation at Saipem
 
 </div>
 
@@ -16,77 +18,64 @@
 
 ## 🎯 About Me
 
-I'm a **Senior Software Architect** at the intersection of **advanced software engineering** and **construction technology**. I specialize in:
+**Welcome to my GitHub profile!** I'm a **Senior Software Architect** crafting intelligent systems at the intersection of enterprise engineering and construction innovation. I specialize in:
 
-- 🏗️ **Enterprise Modernization** → Cloud-native architectures, microservices, event-driven systems
-- 🤖 **Agentic AI** → Sequential thinking agents, autonomous workflows, decision support systems  
-- ☁️ **Cloud Infrastructure** → Azure ecosystem, Kubernetes orchestration, distributed systems
-- 🔄 **Digital Transformation** → BIM integration, API ecosystems, data-driven platforms
+- 🏗️ **Enterprise Modernization** → Cloud-native architectures, microservices, event-driven systems  
+- 🤖 **Agentic AI & Sequential Reasoning** → Autonomous decision-making workflows, RAG systems, agent orchestration  
+- ☁️ **Azure Ecosystem** → Kubernetes, Cosmos DB, Event Hubs, AI Foundry  
+- 🔄 **Digital Transformation** → BIM ecosystems, API design, data-driven platforms
+- 🚀 **Full Stack Development** → From backend architecture to modern UIs
 
-**Currently:** Leading the architectural evolution of the **Data-Driven Construction (DDC)** platform at **Saipem**, modernizing enterprise systems with .NET 10 and Azure AI.
+**Currently:** 🎯 Leading **DDC Platform** modernization to **.NET 10** at **Saipem**  
+**Focus:** Bridging enterprise systems with AI-powered intelligence
 
 ---
 
-## 🛠️ Technology Ecosystem
+## 🛠️ My Tech Stack
 
-<table>
-<tr>
-<td>
+<div align="center">
 
-<details open>
-<summary><strong>💻 Languages</strong></summary>
+### 💻 Programming Languages
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-</details>
-
-</td>
-<td>
-
-<details open>
-<summary><strong>⚙️ Frameworks & Runtimes</strong></summary>
+### ⚙️ Frameworks & Runtimes
 
 ![.NET 10](https://img.shields.io/badge/.NET%2010-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-</details>
-
-</td>
-</tr>
-<tr>
-<td>
-
-<details open>
-<summary><strong>☁️ Cloud & Infrastructure</strong></summary>
+### ☁️ Cloud & Infrastructure
 
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 
-</details>
-
-</td>
-<td>
-
-<details open>
-<summary><strong>🤖 AI & Domain Specialization</strong></summary>
+### 🤖 AI & Specialization
 
 ![Azure AI Foundry](https://img.shields.io/badge/Azure%20AI%20Foundry-00A4EF?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Autodesk APS](https://img.shields.io/badge/Autodesk%20APS-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
 ![Revit API](https://img.shields.io/badge/Revit%20API-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG%20Systems-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
 
-</details>
+### 📦 Databases & Tools
 
-</td>
-</tr>
-</table>
+![Azure Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
@@ -124,19 +113,21 @@ Build **data-driven environments** serving as single sources of truth. Design sc
 
 ## 💼 Professional Experience
 
-### **Saipem** | Abu Dhabi
+### 🎯 **Saipem** | Abu Dhabi
 **BIM Coordinator & Software Developer** _(Dec 2025 - Present)_
 
-- 🔧 Leading DDC Platform modernization to **.NET 10** architecture
-- 🧠 Integrating **Azure AI Foundry** for intelligent decision support systems
-- 🏢 Architecting next-generation BIM workflows at enterprise scale
+- 🔧 **Leading DDC Platform** modernization to **.NET 10** architecture
+- 🧠 **Integrating Azure AI Foundry** for intelligent decision support systems  
+- 🏢 Architecting next-generation **BIM workflows** at enterprise scale
+- 📊 Designing distributed systems handling thousands of daily transactions
 
-### **Saipem** | Remote
+### 🌍 **Saipem** | Remote
 **BIM Operator & Construction Developer** _(Jun 2024 - Nov 2025)_
 
-- ⚡ Engineered production **ASP.NET 8 backend** and **React frontend** for DDC platform
-- 🔍 Architected **Natural Language Query (NLQ) engine** for legacy Oracle/MSSQL systems
-- 📈 Implemented data integration pipelines serving 50+ daily users
+- ⚡ Engineered production **ASP.NET 8** backend & **React** frontend for DDC platform
+- 🔍 Built **Natural Language Query (NLQ)** engine for legacy Oracle/MSSQL systems
+- 📈 Implemented data integration pipelines serving **50+ daily users**
+- 🚀 Optimized database queries reducing response times by **60%**
 
 ---
 
@@ -154,15 +145,31 @@ Build **data-driven environments** serving as single sources of truth. Design sc
 
 <div align="center">
 
-| **Channel** | **Link** |
-|---|---|
-| 💼 LinkedIn | [Bassel Taha](https://linkedin.com/in/bassel-taha) |
-| 📧 Email | [BasselTaha98@gmail.com](mailto:BasselTaha98@gmail.com) |
-| 🌍 Location | Abu Dhabi, UAE |
-| 🎯 Focus | Digital Transformation • Microservices • Agentic AI • Enterprise Architecture |
+### 📞 Let's Talk!
 
-**Building intelligent systems that reshape how the construction industry operates.**
+| 💼 LinkedIn | 📧 Email | 🌍 Web | 📍 Location |
+|---|---|---|---|
+| [Bassel Taha](https://linkedin.com/in/bassel-taha) | [BasselTaha98@gmail.com](mailto:BasselTaha98@gmail.com) | [Portfolio](https://bassel-taha.dev) | Abu Dhabi, UAE |
+
+</div>
+
+---
+
+## 🌟 What I'm Currently Exploring
+
+- 🔬 **Sequential Reasoning Agents** with LangChain & Azure AI
+- 📊 **Vector Databases** for semantic search & RAG pipelines
+- 🏗️ **BIM + AI Integration** for predictive maintenance
+- 🎯 **Event-Driven Microservices** with Event Hubs & Service Bus
+
+---
+
+<div align="center">
+
+### 🚀 Building intelligent systems that reshape construction. Let's collaborate!
 
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" height="3" alt="divider">
+
+**Show some ❤️ by starring my repositories!**
 
 </div>
