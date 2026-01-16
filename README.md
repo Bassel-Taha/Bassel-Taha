@@ -1,5 +1,6 @@
-<!-- Header Section -->
+<!-- Header Banner -->
 <div align="center">
+<img src="Gemini_Generated_Image_pf788dpf788dpf78.png" width="100%" alt="Tech Architecture & Development" style="border-radius: 10px; margin-bottom: 20px;">
 
 # 🚀 Hi, I'm **Bassel Taha**
 
