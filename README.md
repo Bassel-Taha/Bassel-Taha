@@ -11,7 +11,7 @@
 <!-- Animated divider -->
 <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="100%" height="3" alt="divider">
 
-### 📍 Abu Dhabi, UAE | 💼 Architecting Digital Transformation at Saipem
+### 📍 Abu Dhabi, UAE | 💼 Architecting Digital and Automation Solutions
 
 </div>
 
@@ -80,7 +80,7 @@
 
 ---
 
-## 🎯 Core Capabilities & Expertise
+## � Core Capabilities & Expertise
 
 ### 🏛️ Enterprise Architecture
 Design and implement **scalable, resilient systems** for large-scale operations. Expertise in microservices patterns, event-driven architectures, and distributed systems that handle enterprise-grade throughput and reliability requirements.
@@ -136,7 +136,48 @@ Build **data-driven environments** serving as single sources of truth. Design sc
 
 <div align="center">
 
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=bassel-taha&theme=dark&show_icons=true&hide_border=true&count_private=true)
+### 🔥 GitHub Presence
+
+| Followers | Repositories | Profile |
+|-----------|--------------|---------|
+| [![GitHub followers](https://img.shields.io/github/followers/Bassel-Taha?style=flat&logo=github&logoColor=white&color=0078D4)](https://github.com/Bassel-Taha) | [![GitHub Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Bassel-Taha&query=public_repos&label=Repositories&color=0078D4&logo=github&logoColor=white&style=flat)](https://github.com/Bassel-Taha?tab=repositories) | [![Profile](https://img.shields.io/badge/Visit%20Profile-GitHub-0078D4?style=flat&logo=github&logoColor=white)](https://github.com/Bassel-Taha) |
+
+<!-- ### � Tech Expertise Dashboard
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <b>Backend & Enterprise</b><br/>
+      <code>.NET 10</code> • <code>C#</code> • <code>SQL Server</code><br/>
+      <code>Azure</code> • <code>Kubernetes</code> • <code>Docker</code>
+    </td>
+    <td align="center" width="50%">
+      <b>Frontend & Modern Web</b><br/>
+      <code>React</code> • <code>TypeScript</code> • <code>JavaScript</code><br/>
+      <code>Angular</code> • <code>Node.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <b>AI & Intelligence</b><br/>
+      <code>LangChain</code> • <code>RAG Systems</code><br/>
+      <code>Azure AI Foundry</code> • <code>Python</code>
+    </td>
+    <td align="center" width="50%">
+      <b>Domain Expertise</b><br/>
+      <code>BIM</code> • <code>Revit API</code> • <code>Autodesk APS</code><br/>
+      <code>Construction Tech</code>
+    </td>
+  </tr>
+</table> -->
+
+### 📈 Key Metrics
+
+- **🏢 Enterprise Scale**: Architected systems handling 50+ daily active users
+- **⚡ Performance Optimization**: 60% reduction in query response times
+- **🚀 Cloud Native**: Multi-region Azure deployments with AKS orchestration
+- **🤖 AI Integration**: RAG systems and autonomous decision-making workflows
+- **📊 Full Stack**: From database schema to responsive UIs
 
 </div>
 
